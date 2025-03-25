@@ -24,8 +24,9 @@ STEP 8: Use heatmap method of representation to show relationships between two v
 
 ## CODING AND OUTPUT
 
-Developed by: Mahalakshmi R
-Register no: 212223230116
+# Developed by: Mahalakshmi R
+
+# Register no: 212223230116
 
 
 ```py
